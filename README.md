@@ -14,7 +14,7 @@ JavaScript
 Getting Started
 To get a local copy up and running, follow these steps:
 
-Clone the repository: git clone [https://github.com/ndeveloper73/deep_in_woods.git](https://github.com/ndeveloper73/deep_in_woods.git)
+Clone the repository: git clone [https://github.com/deepinwoods/deepinwoods.github.io.git](https://github.com/deepinwoods/deepinwoods.github.io.git)
 Navigate to the project directory: cd project-directory
 Open the index.html file in your preferred web browser.
 Deployment
